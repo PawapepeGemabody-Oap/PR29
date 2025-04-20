@@ -1,0 +1,10 @@
+C:\Users\hanna\source\repos\PR29\PR29\bin\Debug\PR29.exe.config
+C:\Users\hanna\source\repos\PR29\PR29\bin\Debug\PR29.exe
+C:\Users\hanna\source\repos\PR29\PR29\bin\Debug\PR29.pdb
+C:\Users\hanna\source\repos\PR29\PR29\obj\Debug\PR29.csproj.AssemblyReference.cache
+C:\Users\hanna\source\repos\PR29\PR29\obj\Debug\PR29.Form1.resources
+C:\Users\hanna\source\repos\PR29\PR29\obj\Debug\PR29.Properties.Resources.resources
+C:\Users\hanna\source\repos\PR29\PR29\obj\Debug\PR29.csproj.GenerateResource.cache
+C:\Users\hanna\source\repos\PR29\PR29\obj\Debug\PR29.csproj.CoreCompileInputs.cache
+C:\Users\hanna\source\repos\PR29\PR29\obj\Debug\PR29.exe
+C:\Users\hanna\source\repos\PR29\PR29\obj\Debug\PR29.pdb
