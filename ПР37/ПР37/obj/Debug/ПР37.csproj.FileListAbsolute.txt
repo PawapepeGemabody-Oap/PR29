@@ -1,0 +1,10 @@
+C:\Users\hanna\source\repos\ПР37\ПР37\bin\Debug\ПР37.exe.config
+C:\Users\hanna\source\repos\ПР37\ПР37\bin\Debug\ПР37.exe
+C:\Users\hanna\source\repos\ПР37\ПР37\bin\Debug\ПР37.pdb
+C:\Users\hanna\source\repos\ПР37\ПР37\obj\Debug\ПР37.csproj.AssemblyReference.cache
+C:\Users\hanna\source\repos\ПР37\ПР37\obj\Debug\ПР37.Form1.resources
+C:\Users\hanna\source\repos\ПР37\ПР37\obj\Debug\ПР37.Properties.Resources.resources
+C:\Users\hanna\source\repos\ПР37\ПР37\obj\Debug\ПР37.csproj.GenerateResource.cache
+C:\Users\hanna\source\repos\ПР37\ПР37\obj\Debug\ПР37.csproj.CoreCompileInputs.cache
+C:\Users\hanna\source\repos\ПР37\ПР37\obj\Debug\ПР37.exe
+C:\Users\hanna\source\repos\ПР37\ПР37\obj\Debug\ПР37.pdb
